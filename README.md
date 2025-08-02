@@ -1,5 +1,5 @@
 # movies_recommendation_app
-Top 10 recommendations based on your selected movie
+Display the top 10 recommendations based on your selected movie on Streamlit with posters of the movies
 
 
 Download the datasets from here: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
