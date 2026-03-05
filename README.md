@@ -29,7 +29,7 @@ Select a movie from the dropdown list and click "Recommend" to get the top 10 re
 The dataset used for this project contains information about movies, including their titles and IDs. It is processed and stored in movie_data.pkl . The dataset is used to calculate the cosine similarity between movies. The model for recommending movies is based on cosine similarity. Cosine similarity is used to measure the similarity between movie titles. The model computes the similarity scores and suggests the top 10 similar movies based on the selected movie title.
 
 # Results
-
+<!--test !-->
 The system provides the top 10 recommended movies for any selected movie title. It also fetches and displays the posters of these recommended movies using the TMDB API.
 
 <img width="595" height="842" alt="image" src="https://github.com/user-attachments/assets/5ed54c1c-8833-468d-a3dc-1554b3e08a04" />
