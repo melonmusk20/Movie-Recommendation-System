@@ -18,7 +18,7 @@ The movie recommendation system helps users discover movies similar to their fav
 # Usage
 
 Run the Streamlit app:
-
+<!--Final test !-->
 streamlit run app.py
 Open your web browser and go to http://localhost:8501.
 
