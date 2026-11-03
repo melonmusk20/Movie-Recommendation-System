@@ -1,0 +1,6 @@
+movie_data.pkl
+Streamlit.pdf
+.DS_Store
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+__pycache__/
