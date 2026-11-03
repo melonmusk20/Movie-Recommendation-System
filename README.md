@@ -15,6 +15,12 @@ PKL file for reference: https://drive.google.com/file/d/1wcVhYPEsU1iTp4ZUmjQZW2T
 The movie recommendation system helps users discover movies similar to their favorites. By selecting a movie from the list, users receive a list of the top 10 recommended movies along with their posters. This project leverages machine learning techniques to analyze the features of movies and find similarities between them. It uses the TMDB API to fetch and display movie posters, enhancing the user experience by providing visual context for the recommendations. The system is built with Streamlit, providing an interactive and user-friendly interface for users to explore movie recommendations easily.
 
 
+# Setup
+
+1. `pip install -r requirements.txt`
+2. `movie_data.pkl` in this repo is only a link placeholder (file too large for GitHub). Download the real file from the Drive link above and replace it.
+3. Get a free TMDB API key and set it with `export TMDB_API_KEY=your_key`, or put `TMDB_API_KEY = "your_key"` in `.streamlit/secrets.toml`.
+
 # Usage
 
 Run the Streamlit app:
